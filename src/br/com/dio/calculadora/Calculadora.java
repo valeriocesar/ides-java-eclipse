@@ -36,7 +36,7 @@ public class Calculadora {
 		return a - b;
 	}
 	
-	public static double divisao (double a, double b ) { //resolve número inteiro
+	public static double divisao (double a, double b ) { //Aqui foi feito o exercício para entender como funciona o Debug
 		return a / b;
 	}
 	
