@@ -36,7 +36,7 @@ public class Calculadora {
 		return a - b;
 	}
 	
-	public static double divisao (double a, double b ) {
+	public static double divisao (double a, double b ) { //resolve número inteiro
 		return a / b;
 	}
 	
